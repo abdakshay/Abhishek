@@ -1,0 +1,15 @@
+{
+  "author": "unknown",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nforce": "^1.12.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+  "start": "node index.js"
+}
+}
